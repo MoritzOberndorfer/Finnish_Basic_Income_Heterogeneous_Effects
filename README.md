@@ -3,3 +3,4 @@ This repository contains the Stata and R code used for our working paper entitle
 Authors: Aapo Hiilamo & Moritz Oberndorfer.
 We will update this repository with links to the working paper and changes to code that may happend through the peer review process.
 contact: moritz.oberndorfer@helsinki.fi
+Working paper: https://www.demogr.mpg.de/papers/working/wp-2025-035.pdf
